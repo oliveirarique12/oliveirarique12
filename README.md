@@ -9,8 +9,8 @@
 
 ## ⚙️ Sobre mim
 
-Sou movido pela curiosidade e pela vontade de construir o futuro através da tecnologia.  
-Gosto de unir **conhecimento teórico** e **mão na massa**, explorando o potencial do código para transformar o mundo digital. 🌌  
+Sou curioso e faço pela vontade de colocar em prática aquilo que penso e crio em mente
+Gosto de unir **conhecimento teórico** e **mão na massa**, explorando o potencial do código para materializar minhas ideias. 🌌  
 
 ---
 
