@@ -1,7 +1,5 @@
-<!-- Banner Profissional -->
-<p align="center">
-  <img src="https://github.com/henriquefortunato/henriquefortunato/raw/main/A_digital_graphic_design_image_features_Henrique_F.png" alt="Banner - Henrique Fortunato de Oliveira" />
-</p>
+<!-- Banner Animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Henrique%20Fortunato%20de%20Oliveira&fontSize=35&fontColor=00FFFF&animation=fadeIn&fontAlignY=35" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00FFFF&center=true&vCenter=true&lines=👨‍💻+Desenvolvedor+em+evolução;💡+Colocando+a+teoria+em+prática+através+da+tecnologia!;🚀+Transformando+ideias+em+código" />
@@ -11,9 +9,8 @@
 
 ## ⚙️ Sobre mim
 
-Sou um desenvolvedor que acredita que **a teoria só ganha valor quando colocada em prática**.  
-Amo explorar novas tecnologias, resolver problemas e transformar ideias em soluções reais.  
-Meu objetivo é crescer continuamente no mundo da programação e contribuir para projetos que façam a diferença. 🌍
+Sou movido pela curiosidade e pela vontade de construir o futuro através da tecnologia.  
+Gosto de unir **conhecimento teórico** e **mão na massa**, explorando o potencial do código para transformar o mundo digital. 🌌  
 
 ---
 
@@ -36,14 +33,6 @@ Meu objetivo é crescer continuamente no mundo da programação e contribuir par
 
 ---
 
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henriquefortunato&theme=algolia&no-bg=true&no-frame=true&margin-w=15&row=1" alt="trophies"/>
-</p>
-
----
-
 ## ⚡ Atividade recente
 
 <div align="center">
@@ -61,7 +50,7 @@ Meu objetivo é crescer continuamente no mundo da programação e contribuir par
 
 ---
 
-### 🧠 “Colocando a teoria em prática através da tecnologia!”
+### 🧠 “Colocando a teoria em prática através da tecnologia!”  
 > _O código é a ponte entre a imaginação e a realidade._ 💫
 
 ---
