@@ -1,37 +1,59 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Henrique%20Fortunato%20de%20Oliveira&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+<!-- Banner Animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Henrique%20Fortunato%20de%20Oliveira&fontSize=35&fontColor=00FFFF&animation=fadeIn&fontAlignY=35" />
 
-## 💡 Colocando a teoria em prática através da tecnologia!
-
-Sou um entusiasta da tecnologia que acredita no poder da prática para transformar conhecimento em resultados.  
-Explorando o mundo do desenvolvimento com curiosidade, foco e inovação. 🚀
-
----
-
-### 🧠 Tecnologias que utilizo:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00FFFF&center=true&vCenter=true&lines=👨‍💻+Desenvolvedor+em+evolução;💡+Colocando+a+teoria+em+prática+através+da+tecnologia!;🚀+Transformando+ideias+em+código" />
+</p>
 
 ---
 
-### 📊 Estatísticas do GitHub:
+## ⚙️ Sobre mim
+
+Sou movido pela curiosidade e pela vontade de construir o futuro através da tecnologia.  
+Gosto de unir **conhecimento teórico** e **mão na massa**, explorando o potencial do código para transformar o mundo digital. 🌌  
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquefortunato&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquefortunato&layout=compact&theme=tokyonight&hide_border=true)
+
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquefortunato&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquefortunato&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00FFFF)
 
 </div>
 
 ---
 
-### 🌐 Contato:
-📧 **Email:** [henriquef.oliveira70@gmail.com](mailto:henriquef.oliveira70@gmail.com)
+## ⚡ Atividade recente
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquefortunato&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=true" />
+</div>
 
 ---
 
-### ⚙️ Um pouco sobre mim:
-```yaml
-- 🚀 Sempre aprendendo e testando novas ideias
-- 💻 Amante da lógica e da criação de soluções
-- 🌎 Buscando unir conhecimento teórico e aplicação prática
+## 🌐 Contato
+
+<p align="center">
+  <a href="mailto:henriquef.oliveira70@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFFF" /></a>
+  <a href="https://github.com/henriquefortunato"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" /></a>
+</p>
+
+---
+
+### 🧠 “Colocando a teoria em prática através da tecnologia!”  
+> _O código é a ponte entre a imaginação e a realidade._ 💫
+
+---
+
+<!-- Rodapé -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer" />
