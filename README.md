@@ -22,16 +22,6 @@ Gosto de unir **conhecimento teórico** e **mão na massa**
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquefortunato&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquefortunato&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=00FFFF)
-
-</div>
-
----
 
 ## ⚡ Atividade recente
 
