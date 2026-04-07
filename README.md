@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Henrique%20Fortunato%20de%20Oliveira&fontSize=35&fontColor=00FFFF&animation=fadeIn&fontAlignY=35" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00FFFF&center=true&vCenter=true&lines=👨‍💻+Desenvolvedor+em+evolução;💡+Colocando+a+teoria+em+prática+através+da+tecnologia!;🚀+Transformando+ideias+em+código" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00FFFF&center=true&vCenter=true&lines=Colocando+a+teoria+em+prática+através+da+tecnologia!; />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## ⚙️ Sobre mim
 
 Sou curioso e faço pela vontade de colocar em prática aquilo que penso e crio em mente
-Gosto de unir **conhecimento teórico** e **mão na massa**, explorando o potencial do código para materializar minhas ideias. 🌌  
+Gosto de unir **conhecimento teórico** e **mão na massa**  
 
 ---
 
