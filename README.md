@@ -5,12 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00FFFF&center=true&vCenter=true&lines=Colocando+a+teoria+em+prática+através+da+tecnologia!; />
 </p>
 
----
-
-## ⚙️ Sobre mim
-
-Sou curioso e faço pela vontade de colocar em prática aquilo que penso e crio em mente
-Gosto de unir **conhecimento teórico** e **mão na massa**  
+  
 
 ---
 
@@ -26,7 +21,7 @@ Gosto de unir **conhecimento teórico** e **mão na massa**
 ## ⚡ Atividade recente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquefortunato&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oliveirarique12&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=true" />
 </div>
 
 ---
@@ -38,10 +33,7 @@ Gosto de unir **conhecimento teórico** e **mão na massa**
   <a href="https://github.com/henriquefortunato"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" /></a>
 </p>
 
----
 
-### 🧠 “Colocando a teoria em prática através da tecnologia!”  
-> _O código é a ponte entre a imaginação e a realidade._ 💫
 
 ---
 
